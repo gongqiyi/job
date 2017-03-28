@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=700">
+  <title>前端开发</title>
+  <link rel="stylesheet" href="a.css">
+</head>
+<body>
+  
+</body>
+<script src="markdown.js"></script>
+<script src="jquery.min.js"></script>
+<script>
+  $(function(){
+    var data = $.get("https://linlekai.github.io/job/job.md",function(data){
+    mdHtml = marked(data)
+    $("body").append(mdHtml)
+    })
+  })
+</script>
+</html>
