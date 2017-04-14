@@ -30,7 +30,7 @@
   * 使用Vue完成一个能记录公司客户访问数据，手势签到的app   github https://github.com/gongqiyi/vue-signature
 * 了解模块化开发
 * 熟悉常见数据结构和算法
-* 实现了 Lodash 部分核心函数，Github https://github.com/linlekai/linlekai.github.io
+* 实现了 Lodash 部分核心函数，Github https://github.com/gongqiyi/gongqiyi.github.io/blob/master/FangTianYi-lodash.js
 * 略懂 HTTP 协议
 * 了解计算机网络的基本原理
 
