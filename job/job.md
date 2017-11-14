@@ -50,7 +50,7 @@
     * 一鸣官网 http://www.yi-ming.cn/
       * 后台用的是java，前台是我做的，该项目是开发一鸣的官网。页面用到的技术是jQuery，Bootstrap，Swiper。该项目页面样式较单一，开发速度较快。用Bootstrap做响应式布局，页面用到多处轮播图，用Swiper.js完成不同风格的轮播图。
     * 用vue-cli,vue-router,stylus访客签名的web app  https://github.com/gongqiyi/vue-signature
- * 2016年 7月 - 2017年5月 上海快宝有限公司
+ * 2017年 1月 - 2017年11月 上海快宝有限公司
     *  app开发及小程序开发，相关代码在github上  https://github.com/gongqiyi/-app-
     * 负责公司产品前端html的编写，根据业务需要开发和修改
     * 配合产品经理和ui设计师改善用户体验
